@@ -1,0 +1,21 @@
+{
+  "name": "heyyonewtheme",
+  "displayName": "heyyonewtheme",
+  "description": "heyyonewtheme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "heyyonewtheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/heyyonewtheme-color-theme.json"
+      }
+    ]
+  }
+}
