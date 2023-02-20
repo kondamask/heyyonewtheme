@@ -1,5 +1,5 @@
 {
-    "name": "heyyonewtheme",
+    "name": "heyyonewtheme_muted",
     "semanticHighlighting": true,
     "semanticTokenColors": {
         "enumMember": "#90a020",
@@ -179,20 +179,12 @@
         "editorLineNumber.activeForeground": "#909090",
         "editorCursor.background": "#0000ff",
         "editorCursor.foreground": "#ffff00",
-        "editor.selectionBackground": "#ffffff10",
         //"editor.selectionForeground": "#",
-        "editor.inactiveSelectionBackground": "#ffffff10",
-        "editor.selectionHighlightBackground": "#ffffff10",
-        "editor.selectionHighlightBorder": "#ffffff10",
         "editor.wordHighlightBackground": "#ffffff20",
         "editor.wordHighlightBorder": "#ffffff10",
         //"editor.worldHighlightStrongBackground": "#ffffff20",
         "editor.wordHighlightStrongBorder": "#ffffff10",
-        "editor.findMatchBackground": "#ffffff20",
-        "editor.findMatchHighlightBackground": "#ffffff10",
         "editor.findRangeHighlightBackground": "#ffffff10",
-        "editor.findMatchBorder": "#ffffff10",
-        "editor.findMatchHighlightBorder": "#ffffff10",
         "editor.hoverHighlightBackground": "#ffffff10",
         "editor.lineHighlightBackground": "#1f1f26",
         "editor.lineHighlightBorder": "#ffffff10",
@@ -203,8 +195,6 @@
         //"editorIndentGuide.background": "#",
         "editorRuler.foreground": "#707070",
         //"editorCodeLens.foreground": "#ff0000", //?
-        "editorBracketMatch.background": "#ffffff20",
-        "editorBracketMatch.border": "#ffffff10",
 		"editorOverviewRuler.border": "#ffffff10",
         //"editorOverviewRuler.findMatchForeground": "#",
         //"editorOverviewRuler.rangeHighlightForeground": "#",
@@ -229,6 +219,19 @@
         //"editorGutter.modifiedBackground": "#",
         //"editorGutter.addedBackground": "#",
         //"editorGutter.deletedBackground": "#",
+        "editor.selectionBackground": "#2f2f36",
+        "editor.inactiveSelectionBackground": "#1f1f26",
+        "editor.findMatchBorder": "#ffff00a0",
+        "editor.findMatchBackground": "#ffffff00",
+        "editor.findMatchHighlightBorder": "#ffff00a0",
+        "editorOverviewRuler.findMatchForeground": "#ffff00a0",
+        "editor.findMatchHighlightBackground": "#ffffff00",
+        "editorOverviewRuler.selectionHighlightForeground": "#ffff00a0",
+        "editor.selectionHighlightBorder": "#ffff00a0",
+        "editor.selectionHighlightBackground": "#ffffff00",
+        "editorBracketMatch.border": "#0000ff",
+        "editorBracketMatch.background": "#0000ff",
+        "editorOverviewRuler.bracketMatchForeground": "#0000ff",
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Diff Editor Colors — For coloring inserted and removed text, use either a background or a border color but not both.
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -380,6 +383,9 @@
         "debugTokenExpression.number": "#90a020",
         "debugTokenExpression.string": "#90a020",
         "debugTokenExpression.value": "#b0a090",
+        
+        "debugIcon.breakpointForeground": "#800000",
+        
     },
     "tokenColors": [
         {

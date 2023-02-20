@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "heyyonewtheme",
+        "label": "heyyonewtheme - muted",
         "uiTheme": "vs-dark",
-        "path": "./themes/heyyonewtheme-color-theme.json"
+        "path": "./themes/heyyonewtheme-color-theme-muted.json"
+      },
+      {
+        "label": "heyyonewtheme - bright",
+        "uiTheme": "vs-dark",
+        "path": "./themes/heyyonewtheme-color-theme-bright.json"
       }
     ]
   }
