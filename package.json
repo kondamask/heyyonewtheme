@@ -20,6 +20,11 @@
         "label": "heyyonewtheme - bright",
         "uiTheme": "vs-dark",
         "path": "./themes/heyyonewtheme-color-theme-bright.json"
+      },
+      {
+        "label": "heyyonewtheme - grey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/heyyonewtheme-color-theme-grey.json"
       }
     ]
   }
